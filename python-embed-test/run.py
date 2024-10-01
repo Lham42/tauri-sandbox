@@ -37,9 +37,9 @@ if __name__ == "__main__":
     print("Executing code...")
     result = execute_code(code)
     
-    # Write the result to result.txt
-    with open('result.txt', 'w') as f:
-        f.write(result)
+    # # Write the result to result.txt
+    # with open('result.txt', 'w') as f:
+    #     f.write(result)
     
     # Also print the result to stdout
     print(result)
