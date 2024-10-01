@@ -36,3 +36,34 @@ yarn-error.log
 *.swp
 *.swo
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+VENV/
+.idea/
+*.egg-info/
+Pipfile
+Pipfile.lock
+.mypy_cache/
+.pytest_cache/
+*.cover
+
+# PyInstaller
+/build/
+/dist/
+/*.spec
+
+# Output directories
+/public/build/
+/build/
+/out/
+/dist/
+/src/.parcel-cache/
+/src/.next/
