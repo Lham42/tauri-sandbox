@@ -1,0 +1,5 @@
+Result: 4
+
+Printed Output:
+Hello, World!
+The result is: 4
